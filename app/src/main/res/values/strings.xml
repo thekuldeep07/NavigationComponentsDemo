@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="terms">TERMS</string>
+    <string name="next">NEXT</string>
+    <string name="enter_your_name">ENTER YOUR NAME</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+
+</resources>
